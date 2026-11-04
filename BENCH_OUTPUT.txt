@@ -1,0 +1,7 @@
+[fixture] acked=25 clean=18 duplicate=1 bot=4 dlq=2 accounted=25 -> BALANCED
+processor run 1: CRASHED checkpoint offset 33918682
+processor run 2 (restart from checkpoint): DONE
+[load+crash] acked=206206 clean=200080 duplicate=3991 bot=80 dlq=2055 accounted=206206 -> BALANCED
+ingest: 206206 records in 3.38s = 60,971 rec/s (fsync per 500)
+process incl. crash+replay: 12.22s = 16,880 rec/s
+host: ubuntu-4gb-fsn1-1 8 vCPU
