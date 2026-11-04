@@ -11,7 +11,7 @@ Repository with three runnable pieces, stdlib Python only:
 
 ## Artifact access
 
-Public repo: REPO_URL — run `python3 detect_anomalies.py event_sample.jsonl` and `python3 prototype/bench.py`. No dependencies.
+Public repo: https://github.com/stillmarcus24/beat-claude-engineer-004 — run `python3 detect_anomalies.py event_sample.jsonl` and `python3 prototype/bench.py`. No dependencies.
 
 ## Written answer
 
